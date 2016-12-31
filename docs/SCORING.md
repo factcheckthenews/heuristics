@@ -16,6 +16,15 @@ The following are categories of metadata that will be used:
 
 - **Publish dates** should be consistent with the content. For example, [Ending the Fed](http://endingthefed.com/since-donald-trump-won-the-presidency-ford-shifts-truck-production-from-mexico-to-ohio.html) copied a [CNN story from 2015](http://money.cnn.com/2015/08/13/news/companies/ford-truck-mexico-ohio/) and re-wrote the headline to tell a different narrative.  Current articles that reference old stories are a potential sign that something is being taken out of context.
 
+## Text Analysis
+
+- **Spelling and grammar** are red flags because credible news organizations have style guides,copy editors, and review processes in place.
+- **All-caps and excessive punctuation** are also red flags. ARTICLES THAT SCREAM AT YOU ARE LKELY TO BE FAKE!!!
+
+## Images
+
+- **Images** can be taken out of context to tell a different story. Services like [TinEye](https://www.tineye.com/) can be used to verify the image source and compare it to the context of the article.
+
 ## HTTPS
 
 - **Encryption** can be seen as a publisher's willingness to certify the authenticity of their content. HTTPS is the minimum requirement to let readers know that the content they are reading is coming unaltered from the publisher.
