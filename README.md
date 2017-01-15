@@ -17,3 +17,20 @@ The goal for this project is to use existing technology to create a service that
 - [The State of Automated Fact-Checking](https://fullfact.org/blog/2016/aug/automated-factchecking/), FullFact, August 2016
 - [The Quest to Automate Fact-Checking](http://ranger.uta.edu/~cli/pubs/2015/claimbuster-cj15-hassan.pdf), 2015 C+J Symposium, Naeemul Hassan (UTA), Bill Adair (Duke), James T. Hamilton (Stanford), Chengkai Li (UTA), Mark Tremayne (UTA), Jun Yang (Duke), Cong Yu (Google Research)
 - [Toward Automated Fact Monitoring and Checking](https://uta-ir.tdl.org/uta-ir/bitstream/handle/10106/26136/HASSAN-DISSERTATION-2016.pdf), Naeemul Hassan, August 2016
+
+## News Literacy Resources
+
+This section contains links to additional resources with information about how to discern fact from fiction.
+
+- [The News Literacy Project](http://www.thenewsliteracyproject.org/)
+- [First Draft](https://firstdraftnews.com/)
+
+### Online Courses
+
+These courses teach media/news literacy and critical thinking skills.  
+
+- [Fact-Checking: How to Improve Your Skills in Accountability Journalism](http://www.newsu.org/courses/fact-checking)
+- [Dan Rather on Journalism & Finding the Truth in the News](https://www.udemy.com/danrather/)
+- [Media LIT: Overcoming Information Overload](https://www.edx.org/course/media-lit-overcoming-information-asux-mco425x)
+- [Making Sense of News](https://www.edx.org/course/making-sense-news-hkux-hku04x-0)
+- [English for Media Literacy](https://www.coursera.org/learn/media)
