@@ -11,6 +11,8 @@ The goal for this project is to use existing technology to create a service that
 - [OpenSources](http://www.opensources.co/)
 - [B.S. Detector](https://github.com/bs-detector/bs-detector)
 - [FiB @ HackPrinceton](https://github.com/anantdgoel/HackPrincetonF16)
+- [rbutr](http://blog.rbutr.com/f-a-q/)
+- [Web of Trust](https://www.mywot.com/en/reputation-api)
 
 ## Sources
 
