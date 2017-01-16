@@ -4,7 +4,7 @@ Real-time automated fact-checking is hard, but not impossible.  There are a numb
 
 ## Goal
 
-The goal for this project is to use existing technology to create a service that can score the "truthiness" of content based on specific criteria. This project will be open source to allow both transparency and open discourse on the [scoring model](docs/SCORING.md).
+The goal of this project is to use technology to score Internet content for trustworthiness based on certain criteria. This project will be open source to allow both transparency and open discourse on the [scoring model](docs/SCORING.md).
 
 ## Existing Projects
 
