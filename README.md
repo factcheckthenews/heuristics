@@ -13,6 +13,7 @@ The goal for this project is to use existing technology to create a service that
 - [FiB @ HackPrinceton](https://github.com/anantdgoel/HackPrincetonF16)
 - [rbutr](http://blog.rbutr.com/f-a-q/)
 - [Web of Trust](https://www.mywot.com/en/reputation-api)
+- [Hypothes.is](https://hypothes.is/)
 
 ## Sources
 
