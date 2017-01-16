@@ -37,3 +37,11 @@ These courses teach media/news literacy and critical thinking skills.
 - [Media LIT: Overcoming Information Overload](https://www.edx.org/course/media-lit-overcoming-information-asux-mco425x)
 - [Making Sense of News](https://www.edx.org/course/making-sense-news-hkux-hku04x-0)
 - [English for Media Literacy](https://www.coursera.org/learn/media)
+
+## Contributions
+
+Ideas for improving the scoring model are welcome.
+
+## License
+
+[Apache 2.0](LICENSE)
