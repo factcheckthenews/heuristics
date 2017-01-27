@@ -18,8 +18,8 @@ The following are categories of metadata that will be used:
 
 ## Text Analysis
 
-- **Spelling and grammar** are red flags because credible news organizations have style guides,copy editors, and review processes in place.
-- **All-caps and excessive punctuation** are also red flags. ARTICLES THAT SCREAM AT YOU ARE LKELY TO BE FAKE!!!
+- **Spelling and grammar** are red flags because credible news organizations have style guides, copy editors, and review processes in place.
+- **All-caps and excessive punctuation** are also red flags. ARTICLES THAT SCREAM AT YOU ARE LIKELY TO BE FAKE!!!
 
 ## Images
 
