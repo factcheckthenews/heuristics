@@ -1,40 +1,28 @@
 # Scoring
 
-This document outlines the process of scoring content for truthiness.
-We will return a score that represents the probability that this content
-is trustworthy.
+The API will return a score that represents the credibility of the input URL.
 
-The following are categories of metadata that will be used:
+## Credibility Checklist
 
-## Sources
+The following are criteria that will be used to determine credibility.
+
+> **NOTE**: [Ideas](IDEAS.md) for new criteria are in another document.
+
+### Sources
 
 - **Publisher** is one factor in trustworthiness. Some websites attempt to gain credibility by stealing branding and using similar domain names. For example, abcnews.com.co is not affiliated with [ABC News](http://abcnews.go.com/), but uses a similar logo and domain name to make their content appear more credible.
-- **Author** is another factor in trustworthiness.  Often, "fake news" will also use a fake byline.  An author's history is one way to determine the legitimacy of the content.
-- **Deep links** can be processed to determine whether they come from reliable sources. If the article links to other unreliable sources or the article contains no sources at all, then the content is less likely to be true.
 
-## Dates
-
-- **Publish dates** should be consistent with the content. For example, [Ending the Fed](http://endingthefed.com/since-donald-trump-won-the-presidency-ford-shifts-truck-production-from-mexico-to-ohio.html) copied a [CNN story from 2015](http://money.cnn.com/2015/08/13/news/companies/ford-truck-mexico-ohio/) and re-wrote the headline to tell a different narrative.  Current articles that reference old stories are a potential sign that something is being taken out of context.
-
-## Text Analysis
-
-- **Spelling and grammar** are red flags because credible news organizations have style guides, copy editors, and review processes in place.
-- **All-caps and excessive punctuation** are also red flags. ARTICLES THAT SCREAM AT YOU ARE LIKELY TO BE FAKE!!!
-
-## Images
-
-- **Images** can be taken out of context to tell a different story. Services like [TinEye](https://www.tineye.com/) can be used to verify the image source and compare it to the context of the article.
-
-## HTTPS
+### HTTPS
 
 - **Encryption** can be seen as a publisher's willingness to certify the authenticity of their content. HTTPS is the minimum requirement to let readers know that the content they are reading is coming unaltered from the publisher.
 
-## Crowd-sourcing
+### Text Analysis
 
-Crowd-sourced verification is dangerous because social networks (trolling) can game the system. If this is used as input to a neural network, then our model would incorrectly classify content. However, there is some value in crowd-sourcing the validity, even if it makes up a smaller portion of the overall score.
+- **Spelling and grammar** are red flags because credible news organizations have style guides, copy editors, and review processes in place.
+- **All-caps and excessive punctuation** are also red flags. ARTICLES THAT SCREAM AT YOU ARE LIKELY TO BE FAKE!!!
+- **Slander** words are used to defame or harm the reputation of another individual. Credible sources do not resort to ad hominem attacks, so the presence of these terms can be used to detect untrustworthy content.
 
-- **Social verificaton** would ideally require login from a social network, such as Facebook or LinkedIn, to verify that content is credible.
+### Crowd-sourcing
 
-## Machine learning
+- [Web of Trust](https://www.mywot.com/en/aboutus) is a website reputation and review service that helps people make informed decisions about whether to trust a website or not. Web of Trust data enables us to provide a reputation score and a level of confidence in that score.
 
-Machine learning would be useful for automated classification.  The training data should come from professional fact-checkers or verified sources to ensure accuracy.

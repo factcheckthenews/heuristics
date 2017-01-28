@@ -14,6 +14,7 @@ The goal of this project is to use technology to score Internet content for trus
 - [rbutr](http://blog.rbutr.com/f-a-q/)
 - [Web of Trust](https://www.mywot.com/en/reputation-api)
 - [Hypothes.is](https://hypothes.is/)
+- [This is Fake](https://www.thisisfake.org/)
 
 ## Sources
 
